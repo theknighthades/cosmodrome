@@ -9,3 +9,7 @@ Cosmodrome utilizes dwm to operate the desktop environment.
 # simple terminal
 
 Cosmodrome utilises st to execute commands.
+
+# dmenu
+
+Cosmodrome utilises dmenu to launch programs.
