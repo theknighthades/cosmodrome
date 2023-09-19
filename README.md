@@ -13,3 +13,7 @@ Cosmodrome utilises st to execute commands.
 # dmenu
 
 Cosmodrome utilises dmenu to launch programs.
+
+# xorg
+
+Cosmodrome utilises xorg as a basis for the DE.
